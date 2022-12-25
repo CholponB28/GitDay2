@@ -8,5 +8,6 @@ public class HomePage {
 
     //logo
 //updated with more stuff
-
+//add more things
+    //foot
 }
